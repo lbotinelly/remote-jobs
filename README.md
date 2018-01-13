@@ -6,6 +6,8 @@ Contributions are very welcome! Please read the [contribution guidelines](CONTRI
 
 There is an [example profile](/company-profiles/example.md) to use.
 
+There is also a [browser](https://rawgit.com/lbotinelly/remote-jobs/master/index.html) that you can use to search.
+
 ## Companies
 
 Name | Website | Region
