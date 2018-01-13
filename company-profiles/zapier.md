@@ -2,35 +2,59 @@
 
 ## Company blurb
 
-For the past four years, Zapier has been helping people across the world automate the boring and tedious parts of their job. We do that by helping everyone connect the web applications they already use and love.
+We're a 100% distributed team living and working all over the world to help you automate the most tedious parts of your day to day job.
+
+We believe that there are jobs that a computer is best at doing and that there are jobs that a human is best at doing. We want to empower businesses everywhere to create processes and systems that let computers do what they are best at doing and let humans do what they are best at doing.
 
 ## Company size
 
-30 team members listed on the [about page](https://zapier.com/about/)
+90+ team members listed on the [about page](https://zapier.com/about/)
 
 ## Remote status
 
-If you want to work remote, that's great. If you want to work near others, that's cool too. Our team is distributed across California, Colorado, Pennsylvania, Michigan, Minnesota, Missouri, Illinois and the UK because it lets us work with the best people. You don't have to be located in the USA either. Some of the team live in the United Kingdom, Thailand, New Zealand and Australia. You just have to be talented!
+We're a team of people living and working remotely in 13 countries. We're working hard to build a diverse and collaborative team that can empathize with each other to solve hard problems and build a product we can be proud of.
 
 ## Region
 
-Everywhere
+Worldwide
 
 ## Company technologies
 
-Python/Django, Backbone.js, Linode, nginx, Gunicorn, MySQL, Redis and RabbitMQ
+Backend:
+
+- Python
+- Django
+- Celery
+- Node.js
+
+Frontend:
+- Javascript
+- React
+
+Infrastructure:
+- Amazon Web Services
+- AWS Lambda
+- nginx
+- Gunicorn
+- Ansible
+- Packer
+
+Datastores:
+
+- MySQL
+- Redis
+- Memcached
+- ZooKeeper
+
+Queues:
+
+- RabbitMQ
+- Kafka
 
 ## Office Locations
 
-\<Unknown\>
+**None**
 
 ## How to apply
 
-Applying is fairly straightforward:
-
-Send an email to [platformjobs@zapier.com](platformjobs@zapier.com) (be sure to include the title of the role you are applying for!)
-Tell us about yourself (include how you heard about Zapier and the position)
-Tell us about the most difficult API/library/software bug you've tackled (we love real life stories!)
-Tell us about a time you helped a customer or a partner be successful
-Tell us about something you've maintained after the initial development was complete
-Include links to your portfolio/Github profile (or provide us with 500+ LOC)
+You can find our open jobs and apply directly here: https://zapier.com/jobs/
